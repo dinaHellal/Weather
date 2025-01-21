@@ -6,7 +6,8 @@
   "display": "standalone",
   "orientation": "any",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "https://dinahellal.github.io/Weather/",
+  "id":"/Weather/",
   "icons": [
     { "src": "/icons-192.png", "type": "image/png", "sizes": "192x192" },
     { "src": "/icons-256.png", "type": "image/png", "sizes": "256x256" },
