@@ -10,17 +10,17 @@
   "id": "https://dinahellal.github.io/",
   "icons": [
     {
-      "src": "/icons-192.png",
+      "src": "assets/images/clouds-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/icons-256.png",
+      "src": "assets/images/clouds-256.png",
       "type": "image/png",
       "sizes": "256x256"
     },
     {
-      "src": "/icons-512.png",
+      "src": "assets/images/clouds-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
